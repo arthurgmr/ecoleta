@@ -1,5 +1,5 @@
 <h2 align="center">
-Ecoleta
+<img src="/public/assets/logo.svg" width="200"/>
 </h2>
 
 
@@ -18,9 +18,9 @@ Ecoleta
   <a href="#licença">Licença</a> 
 </h3>
 
-<img src="https://drive.google.com/file/d/1mgoNkrWEKym4WNpDbTQUhFHCThywq5b-/view?usp=sharing">
-<img src="https://drive.google.com/file/d/17cbS16lGnNTlinOXVwjdGwWn5mikEg9x/view?usp=sharing" width="1200">
-<img src="https://drive.google.com/file/d/1iiJRPu0wJ0qb73WnUYyeZOsV9SGW9yUL/view?usp=sharing" width="1200">
+<img src=".github/nlw_index.png" width="1200">
+<img src=".github/nlw_create.png" width="1200">
+<img src=".github/nlw_search.png" width="1200">
 <img src="" width="1200">
 
 ## :information_source: Sobre
