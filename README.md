@@ -31,7 +31,7 @@ A aplicação cadastra entidades/lugares que recebem lixo reciclável e o client
 
 ## :interrobang: Motivo
 
-A semana Next Level Week da Rocketseat está acontecendo exatamente na semana do meio ambiente e a comunidade a fim de contribuir com a conscientização trouxe o tema como desafio para aplicarmos os conceitos das tecnologias de JavaScript, HTLM, CSS, Node.js, React, ReactNative, entre outras.
+A semana Next Level Week da Rocketseat está acontecendo exatamente na semana do meio ambiente e a comunidade a fim de contribuir com a conscientização trouxe o tema como desafio para estudarmos os conceitos das tecnologias de JavaScript, HTLM, CSS, Node.js, React, ReactNative, entre outras.
 
 ## :rocket: Tecnologias Utilizadas
 
@@ -40,8 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - JavaScript
 - HTML
 - CSS
-- Node.js
-- 
+- Node.js 
 
 ## :link: Como contribuir
 
