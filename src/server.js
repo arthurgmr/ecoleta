@@ -29,7 +29,7 @@ server.get("/create-point", function(req, res) {
 server.post("/savepoint", (req, res) => {
 
     const query = `
-    INSERT INT places (
+    INSERT INTO places (
         image,
         name,
         address,
@@ -59,9 +59,6 @@ server.post("/savepoint", (req, res) => {
         return res.render("create-point.html", { saved: true })
     }
     db.run(query, values, afterInsertData)
-
-
-
 })
 
 server.get("/search", function(req, res) {
@@ -71,10 +68,6 @@ server.get("/search", function(req, res) {
     if(search =="") {
         return res.render("search-results.html", {total:0})   
     }
-
-
-
-
     //pegar os dados do banco de dados
     db.all(`SELECT * FROM places WHERE city LIKE '%${search}%'`, function(err, rows) {
         if(err) {
@@ -89,7 +82,6 @@ server.get("/search", function(req, res) {
     })
 
 })
-
 
 server.listen(3000)
 console.log("server is runnig!")
