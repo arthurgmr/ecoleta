@@ -18,10 +18,9 @@
   <a href="#licença">Licença</a> 
 </h3>
 
-<img src=".github/nlw_index.png" width="1200">
-<img src=".github/nlw_create.png" width="1200">
-<img src=".github/nlw_search.png" width="1200">
-<img src="" width="1200">
+<img src="/.github/nlw_index.png" width="1200">
+<img src="/.github/nlw_create.png" width="1200">
+<img src="/.github/nlw_search.png" width="1200">
 
 ## :information_source: Sobre
 
