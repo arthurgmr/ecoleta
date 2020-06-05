@@ -76,3 +76,22 @@
     background-color: #2fb85e;
 }
 
+
+/* modal para o point-create */
+#modal.point .content,
+#modal.point-err .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.point h1,
+#modal.point-err h1 {
+    color: white;
+    margin-top: 32px;
+}
+
+#modal.point-err img {
+    height: 100px;
+    width: 100px;
+}
