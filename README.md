@@ -19,12 +19,12 @@
 </h3>
 
 <img src="/.github/nlw_index.PNG" width="1200">
-<img src="/.github/nlw_create.gif" width="1200">
-<img src="/.github/nlw_search.gif" width="1200">
+<img src="/.github/nlw_create.gif?raw=true" width="1200">
+<img src="/.github/nlw_search.gif?raw=true" width="1200">
 
 ## :information_source: Sobre
 
-Na semana Next Level Week - NLW#1 Starter da Rocketseat desenvolvemos a aplicação Ecoleta Fullmvc utilizando JavaScript, HTML, CSS e Node.js.
+Na semana Next Level Week - NLW#1 Starter da Rocketseat desenvolvemos a aplicação Ecoleta com o front e o back-end utilizando JavaScript, HTML, CSS e Node.js.
 
 A aplicação cadastra entidades/lugares que recebem lixo reciclável e o cliente pesquisa os locais por cidade a fim de saber da correta destinação do lixo reciclável. 
 
